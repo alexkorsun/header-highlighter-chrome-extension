@@ -1,1 +1,1 @@
-# header-highliter-chrome-extension
+# header-highlighter-chrome-extension
